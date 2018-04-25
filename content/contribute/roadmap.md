@@ -31,23 +31,39 @@ toc: true
 | EKS  | | [Planned](https://github.com/jenkins-x/jx/issues/87) | | |
 | GKE | | | | 1.1.x |
 | Minkube | | | | 1.1.x |
-| OpenShift | | | [In Progress](https://github.com/jenkins-x/jx/issues/435) | |
+| Minishift | | | | 1.2.11 |
+| OpenShift | | |  | 1.2.11 |
 | **Tools** | | | | |
 | Helm | | | | 1.1.x |
-| Skaffold | | | [In Progress](https://github.com/jenkins-x/jx/issues/433) | | 
+| Skaffold | | | | 1.2.11 | 
 | Prow | | [Planned](https://github.com/jenkins-x/jx/issues/434) | | |
 | LetsEncrypt | | | [In Progress](https://github.com/jenkins-x/jx/issues/349) | |
+| Argo | | [Planned](https://github.com/jenkins-x/jx/issues/694) | | |
 | **Git Providers** | | | | |
 | GitHub | | | | 1.1.x |
+| GitHub Enterprise | | | | 1.1.68 |
 | Gitea | | | [In Progress](https://github.com/jenkins-x/jx/issues/432) | |
 | BitBucket | | | [In Progress](https://github.com/jenkins-x/jx/issues/36) | |
-| GitLab | | [Planned](https://github.com/jenkins-x/jx/issues/40) | | |
+| GitLab | | | [In Progress](https://github.com/jenkins-x/jx/issues/40) | |
 | **Issue Trackers** | | | | |
 | GitHub | | | | 1.1.x |
+| GitHub Enterprise | | | | 1.1.68 |
 | Gitea | | | [In Progress](https://github.com/jenkins-x/jx/issues/432) | |
-| JIRA | | | [In Progress](https://github.com/jenkins-x/jx/issues/430) |
-| **Featuress** | | | | |
+| JIRA | | | | 1.1.68 |
+| **Features** | | | | |
 | Multi Cluster | | | [In Progress](https://github.com/jenkins-x/jx/issues/479) |
+| Istio Production Canaries | | | [In Progress](https://github.com/jenkins-x/jx/issues/582) |
+| **Build Packs** | | | | |
+| Go | | | | 1.1.43 |
+| Java + Maven | | | | 1.1.x |
+| Java + Gradle | | | | 1.1.43 |
+| Kubeless  | | [Planned](https://github.com/jenkins-x/jx/issues/554) | |
+| Node | | | | 1.1.43 |
+| Python  | | | [In Progress](https://github.com/jenkins-x/jx/issues/559) |
+| Rust | | | | 1.1.43 |
+| Serverless  | | [Planned](https://github.com/jenkins-x/jx/issues/553) | |
+| Swift  | | [Planned](https://github.com/jenkins-x/jx/issues/560) | |
+| .Net  | | [Planned](https://github.com/jenkins-x/jx/issues/561) | |
 
 If you are interested in helping out please see the above issues or [join us in the community](/community/).
 
